@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #564654;
+}
+
+.food_link{
+  color: #152676;
+}
+
+body {
+    background-color: #14b3e5;
+}
+
+.list-group-item {
+    color: #e8d069;
+}
